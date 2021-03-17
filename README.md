@@ -6,3 +6,4 @@
 - seaborn中文文档 <https://github.com/apachecn/seaborn-doc-zh>
 - sklearn中文文档 <https://www.scikitlearn.com.cn/>
 - PyTorch中文教程 <https://www.pytorch123.com/>
+- openpyxl中文教程 <https://geek-docs.com/python/python-tutorial/python-openpyxl.html#OpenPyXL-2>
