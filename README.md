@@ -5,3 +5,4 @@
 - pandas参考文档 <https://www.pypandas.cn/docs/>
 - seaborn中文文档 <https://github.com/apachecn/seaborn-doc-zh>
 - sklearn中文文档 <https://www.scikitlearn.com.cn/>
+- PyTorch中文教程 <https://www.pytorch123.com/>
