@@ -6,7 +6,7 @@
 - matplotlib official <https://matplotlib.org/stable/index.html#>
 - pandas参考文档 <https://www.pypandas.cn/docs/>
   - API参考手册 <https://pandas.pydata.org/pandas-docs/stable/reference/index.html> 
-- seaborn中文文档 <https://apachecn.gitee.io/seaborn-doc-zh/#/>
+- seaborn中文文档 <https://seaborn.pydata.org/>
 - sklearn中文文档 <https://www.scikitlearn.com.cn/>
 - PyTorch中文教程 <https://www.pytorch123.com/>
 - openpyxl中文教程 <https://geek-docs.com/python/python-tutorial/python-openpyxl.html#OpenPyXL-2>
