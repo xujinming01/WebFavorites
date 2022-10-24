@@ -1,5 +1,3 @@
-记录一些学习用到的技术文档 [项目地址](https://github.com/zenithfalco/Learning-Files)
-
 # Python篇
 
 - matplotlib 中文网 <https://www.matplotlib.org.cn/tutorials/>
